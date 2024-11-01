@@ -1,0 +1,12 @@
+.dashboard {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.dashboard-header {
+    font-size: 2rem;
+}
+
+.dashboard-text {
+    font-size: 1rem;
+}
